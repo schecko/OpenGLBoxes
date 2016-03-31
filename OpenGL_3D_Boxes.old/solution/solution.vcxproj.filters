@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Utilities">
+      <UniqueIdentifier>{b8951c9a-bb24-4980-8868-8331d90f9826}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rendering">
+      <UniqueIdentifier>{0b58db3a-0661-447a-ab82-93538d39468f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platform Layer">
+      <UniqueIdentifier>{40c4e446-e1b4-408b-8514-54f32336f335}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Top Level">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\code\maingame.cpp">
+      <Filter>Top Level</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\entry.cpp">
+      <Filter>Top Level</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\eventlistener.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\camera.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\shaders.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\debug.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\graphicscontroller.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\glfwwrapper.cpp">
+      <Filter>Platform Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\platform.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\windowswrapper.cpp">
+      <Filter>Platform Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code\clock.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\code\math.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\eventlistener.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\camera.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\shaders.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\debug.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\maingame.h">
+      <Filter>Top Level</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\entry.h">
+      <Filter>Top Level</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\graphicscontroller.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\glfwwrapper.h">
+      <Filter>Platform Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\platform.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\windowswrapper.h">
+      <Filter>Platform Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\typedefs.h">
+      <Filter>Platform Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\code\clock.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+W:/deps/lib/glewsol/CMakeFiles/glewmx_s.dir
+W:/deps/lib/glewsol/CMakeFiles/glewinfo.dir
+W:/deps/lib/glewsol/CMakeFiles/glew_s.dir
+W:/deps/lib/glewsol/CMakeFiles/ALL_BUILD.dir
+W:/deps/lib/glewsol/CMakeFiles/glewmx.dir
+W:/deps/lib/glewsol/CMakeFiles/ZERO_CHECK.dir
+W:/deps/lib/glewsol/CMakeFiles/visualinfo.dir
+W:/deps/lib/glewsol/CMakeFiles/glew.dir

@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/windowsdocs/Downloads/glew-1.13.0/glew-1.13.0/build/cmake/CMakeLists.txt
+  CMake does not need to re-run because W:\deps\lib\glewsol\CMakeFiles\generate.stamp is up-to-date.
+  glew.c
+  glewmx_s.vcxproj -> W:\deps\lib\glewsol\lib\Debug\libglew32mxd.lib
