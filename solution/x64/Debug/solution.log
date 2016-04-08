@@ -1,0 +1,26 @@
+﻿  windowswrapper.cpp
+d:\scottsdocs\sourcecode\openglboxes\code\eventlistener.h(3): fatal error C1083: Cannot open include file: 'GLM\glm.hpp': No such file or directory
+  utilities.cpp
+  glfwwrapper.cpp
+d:\scottsdocs\sourcecode\openglboxes\code\camera.h(4): fatal error C1083: Cannot open include file: 'GLEW\glew.h': No such file or directory
+  shaders.cpp
+d:\scottsdocs\sourcecode\openglboxes\code\shaders.h(5): fatal error C1083: Cannot open include file: 'GLEW/glew.h': No such file or directory
+  resourcemanager.cpp
+d:\scottsdocs\sourcecode\openglboxes\code\eventlistener.h(3): fatal error C1083: Cannot open include file: 'GLM\glm.hpp': No such file or directory
+  platform.cpp
+d:\scottsdocs\sourcecode\openglboxes\code\eventlistener.h(3): fatal error C1083: Cannot open include file: 'GLM\glm.hpp': No such file or directory
+  eventlistener.cpp
+d:\scottsdocs\sourcecode\openglboxes\code\eventlistener.h(3): fatal error C1083: Cannot open include file: 'GLM\glm.hpp': No such file or directory
+  maingame.cpp
+d:\scottsdocs\sourcecode\openglboxes\code\maingame.h(4): fatal error C1083: Cannot open include file: 'GLEW\glew.h': No such file or directory
+  entry.cpp
+d:\scottsdocs\sourcecode\openglboxes\code\maingame.h(4): fatal error C1083: Cannot open include file: 'GLEW\glew.h': No such file or directory
+  graphicscontroller.cpp
+d:\scottsdocs\sourcecode\openglboxes\code\graphicscontroller.h(4): fatal error C1083: Cannot open include file: 'GLEW\glew.h': No such file or directory
+  debug.cpp
+  clock.cpp
+d:\scottsdocs\sourcecode\openglboxes\code\clock.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  camera.cpp
+d:\scottsdocs\sourcecode\openglboxes\code\camera.h(4): fatal error C1083: Cannot open include file: 'GLEW\glew.h': No such file or directory
+  box.cpp
+  Generating Code...

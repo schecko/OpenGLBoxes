@@ -199,13 +199,13 @@ void GraphicsController::BindVertexDataToVAO(const GLfloat verts[],
 
     glEnableVertexAttribArray(0);
 
-    glVertexAttribPointer(1,
+    glVertexAttribPointer(2,
                           textureStride,
                           GL_FLOAT,
                           GL_FALSE,
                           (vertexStride + textureStride) * sizeof(GLfloat),
                           (GLvoid*)(vertexStride * sizeof(GLfloat)));
-    glEnableVertexAttribArray(1);
+    glEnableVertexAttribArray(2);
 
 
     glBindVertexArray(0);
@@ -213,7 +213,7 @@ void GraphicsController::BindVertexDataToVAO(const GLfloat verts[],
 
 }
 
-void GraphicsController::BindTexture(const TextureInfo* textureInfo)
+void GraphicsController::BindTexture(TextureInfo* textureInfo)
 {
     // Debug::SoftAssert(textureInfo->textureID == 0,
     //                  "overwriting a textureID: " + std::to_string(textureInfo->textureID));

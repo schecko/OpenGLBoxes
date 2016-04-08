@@ -83,7 +83,7 @@ public:
                              GLuint vertexStride,
                              GLuint textureStride);
 
-    void BindTexture(const TextureInfo* textureInfo);
+    void BindTexture(TextureInfo* textureInfo);
 
 
     //temporary
